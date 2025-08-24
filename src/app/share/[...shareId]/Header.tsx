@@ -14,7 +14,7 @@ export function Header() {
           <Icon size="lg">
             <Icons.Logo />
           </Icon>
-          <Text>umami</Text>
+          <Text>Mattalytics</Text>
         </Link>
       </div>
       <div className={styles.buttons}>
